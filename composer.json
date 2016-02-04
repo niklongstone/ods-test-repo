@@ -1,0 +1,7 @@
+{
+    "name": "ods/test-repo",
+    "type": "open-data-sample",
+    "require": {
+        "fakerino/ods-installer": "dev-master"
+    }
+}
